@@ -101,6 +101,10 @@
       "type": "build"
     },
     {
+      "name": "esbuild",
+      "type": "bundled"
+    },
+    {
       "name": "cdktf",
       "version": "^0.4.0",
       "type": "peer"

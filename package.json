@@ -61,7 +61,9 @@
   "dependencies": {
     "esbuild": "^0.12.5"
   },
-  "bundledDependencies": [],
+  "bundledDependencies": [
+    "esbuild"
+  ],
   "keywords": [
     "cdk"
   ],

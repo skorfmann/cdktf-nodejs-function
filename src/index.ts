@@ -4,7 +4,7 @@ import { Construct } from 'constructs';
 import { buildSync } from 'esbuild';
 
 export interface NodejsFunctionProps {
-  path: string;
+  readonly path: string;
 }
 
 const bundle = (workingDirectory: string, entryPoint: string) => {
