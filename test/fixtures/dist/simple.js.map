@@ -2,6 +2,6 @@
   "version": 3,
   "sources": ["../simple.ts"],
   "sourcesContent": ["export const handler = async () => {\n  return {\n    statusCode: 200,\n    headers: {\n      'Content-Type': 'text/html; charset=utf-8',\n    },\n    body: '<p>Hello world!</p>',\n  };\n};\n"],
-  "mappings": ";;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAO,IAAM,UAAU,YAAY;AACjC,SAAO;AAAA,IACL,YAAY;AAAA,IACZ,SAAS;AAAA,MACP,gBAAgB;AAAA;AAAA,IAElB,MAAM;AAAA;AAAA;",
+  "mappings": ";;;;;;;;;AAAA;AAAA;AAAA;AAAO,IAAM,UAAU,YAAY;AACjC,SAAO;AAAA,IACL,YAAY;AAAA,IACZ,SAAS;AAAA,MACP,gBAAgB;AAAA;AAAA,IAElB,MAAM;AAAA;AAAA;",
   "names": []
 }

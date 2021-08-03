@@ -31,35 +31,35 @@
     "organization": false
   },
   "devDependencies": {
-    "@types/jest": "^26.0.23",
+    "@types/jest": "^26.0.24",
     "@types/node": "^10.17.0",
-    "@typescript-eslint/eslint-plugin": "^4.26.0",
-    "@typescript-eslint/parser": "^4.26.0",
+    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/parser": "^4.29.0",
     "cdktf": "0.4.0",
     "constructs": "3.3.75",
-    "eslint": "^7.27.0",
+    "eslint": "^7.32.0",
     "eslint-import-resolver-node": "^0.3.4",
     "eslint-import-resolver-typescript": "^2.4.0",
     "eslint-plugin-import": "^2.23.4",
-    "jest": "^27.0.4",
+    "jest": "^27.0.6",
     "jest-junit": "^12",
-    "jsii": "^1.30.0",
-    "jsii-diff": "^1.30.0",
-    "jsii-docgen": "^1.8.86",
-    "jsii-pacmak": "^1.30.0",
+    "jsii": "^1.32.0",
+    "jsii-diff": "^1.32.0",
+    "jsii-docgen": "^1.8.110",
+    "jsii-pacmak": "^1.32.0",
     "json-schema": "^0.3.0",
     "npm-check-updates": "^11",
     "projen": "^0.20.11",
     "standard-version": "^9",
-    "ts-jest": "^27.0.2",
-    "typescript": "^4.3.2"
+    "ts-jest": "^27.0.4",
+    "typescript": "^4.3.5"
   },
   "peerDependencies": {
     "cdktf": "^0.4.0",
     "constructs": "^3.3.75"
   },
   "dependencies": {
-    "esbuild": "^0.12.5"
+    "esbuild": "^0.12.17"
   },
   "bundledDependencies": [
     "esbuild"
